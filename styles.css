@@ -1,0 +1,53 @@
+
+.contentpage{
+    background-color: rgb(202, 202, 202);
+}
+.header{
+    background-color: white;
+    text-align: center;
+    height: 60px;
+    margin-top: -20px;
+    margin-left: -20px;
+    margin-right: -8px;
+}
+.contentpagefeed{
+    margin-left:30%;
+    margin-top: 100px;
+    width: 40%;
+}
+#headerphoto{
+    display: flex;
+    font-size:10px;
+    height: 40px;
+}
+#headerphoto h1{
+    width:100%;
+    margin-left: 10px;
+}
+img{
+    width:100%;
+    height: 5%;
+}
+.firstcontent{
+    background-color: white;
+    border-radius: 1%;
+}
+#description{
+    font-size: 14px;
+    height: 45px;
+    text-align: justify;
+    padding-left: 2%;
+    padding-right: 2%;
+    padding-bottom: 2%;
+}
+#headerphoto h2{
+    color: grey;
+    margin-right: 5px;
+}
+body{
+    background-color: rgb(202, 202, 202);
+    display: block;
+}
+.header h1{
+    padding-top: 6px;
+}
